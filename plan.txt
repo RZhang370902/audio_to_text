@@ -1,0 +1,14 @@
+API Layer (Node.js/Express or Python/FastAPI)
+Handle authentication
+Manage API requests
+Route data between services
+Speech-to-Text Service
+Use established APIs like:
+Google Cloud Speech-to-Text
+Amazon Transcribe Medical
+Microsoft Azure Speech Service
+Specialized for medical terminology
+Natural Language Processing (NLP)
+Extract relevant information from transcribed text
+Map information to report template fields
+Medical entity recognition
