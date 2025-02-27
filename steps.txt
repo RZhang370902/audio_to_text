@@ -1,3 +1,4 @@
 1. Generate a demo head-to-toe assessment report from chatgpt
 2. Generate a demo speech from chatgpt
-3. Convert the demo speech to audio file
+3. Convert the demo speech to audio file, amazon polly
+
