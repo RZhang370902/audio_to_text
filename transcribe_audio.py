@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 # Initialize the Deepgram client
-# Make sure to set your DEEPGRAM_API_KEY as an environment variable
+# Set DEEPGRAM_API_KEY as an environment variable
 DEEPGRAM_API_KEY = os.getenv('DEEPGRAM_API_KEY')
 deepgram = DeepgramClient(DEEPGRAM_API_KEY)
 
